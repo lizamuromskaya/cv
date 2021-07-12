@@ -15,7 +15,7 @@ https://github.com/lizamuromskaya/ruby_trainee/tree/main/epamtasks
 https://github.com/lizamuromskaya/ruby_tasks
 - Projects that I did as part of an online course
 https://github.com/lizamuromskaya/ruby_trainee 
-- The final project that I did with my team in epam ruby lab(it will be completed in 2 weeks)
+- The final project that I did with my team in epam ruby lab(it will be completed 23.07.2021)
 https://smartbanking-epam.ru/
 https://github.com/RUBYLNIK-training-center/smart-banking
 
@@ -26,13 +26,17 @@ At the moment I have no work experience
 
 ## Education ##
 
+**Rubyschool.us** (Feb 2021 - Apr 2021)\
+*An intensive online web-development course.*
+I have completed 35 lessons of this course: https://rubyschool.us/
+
 **Epam Ruby lab** (Apr 2021 - Jul 2021)\
 *An intensive 16-weeks full-time web-development course.*
 
 A learning process was focused on the programming.
 
 **Belarusian State University of Informatics and Radioelectronics** (September 2019 - June 2023)\
-*Faculty of Computer-Aided Design, Information systems and technologies (industrial safety)*
+*Faculty of Computer-Aided Design, Information systems and technologies (industrial safety)*\
 С++, MySQL
 
 ## Skills ##
@@ -42,7 +46,7 @@ A learning process was focused on the programming.
 **Frameworks and Libraries**: Ruby on Rails, Sinatra\
 **Databases**: PostgreSQL, MySQL, SQLite\
 **TDD/BDD**: RSpec\
-**Version Control Systems**: Git\
+**Version Control Systems**: Git
 
 ## Languages ##
 
