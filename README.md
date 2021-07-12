@@ -4,6 +4,9 @@
 
 
 ## Summary ##
+- 1 year of experience in programming.
+- Have skills in ruby, ruby on rails, sinatra, bootstrap,SQLite,PostgreSQL.
+- Understand OOP concepts.
 ### What to see ###
 - Projects that I did at Epam ruby lab
 https://github.com/lizamuromskaya/ruby_trainee/tree/main/epamtasks
@@ -14,10 +17,6 @@ https://github.com/lizamuromskaya/ruby_trainee
 - The final project that I did with my team in epam ruby lab
 https://smartbanking-epam.ru/
 https://github.com/RUBYLNIK-training-center/smart-banking
-
-- 1 year of experience in programming.
-- Have skills in ruby, ruby on rails, sinatra, bootstrap,SQLite,PostgreSQL.
-- Understand OOP concepts.
 
 
 ## Experience ##
