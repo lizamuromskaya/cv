@@ -15,7 +15,7 @@ https://github.com/lizamuromskaya/ruby_trainee/tree/main/epamtasks
 https://github.com/lizamuromskaya/ruby_tasks
 - Projects that I did as part of an online course
 https://github.com/lizamuromskaya/ruby_trainee 
-- The final project that I did with my team in epam ruby lab
+- The final project that I did with my team in epam ruby lab(it will be completed in 2 weeks)
 https://smartbanking-epam.ru/
 https://github.com/RUBYLNIK-training-center/smart-banking
 
