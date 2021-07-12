@@ -6,7 +6,8 @@
 ## Summary ##
 - 1 year of experience in programming.
 - Have skills in ruby, ruby on rails, sinatra, bootstrap,SQLite,PostgreSQL.
-- Understand OOP concepts.
+- Has been read 1 part of the book Metaprogramming Ruby 2: Program Like the Ruby Pros
+
 ### What to see ###
 - Projects that I did at Epam ruby lab
 https://github.com/lizamuromskaya/ruby_trainee/tree/main/epamtasks
