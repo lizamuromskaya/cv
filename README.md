@@ -13,11 +13,10 @@
 - Projects that I did at Epam ruby lab
 https://github.com/lizamuromskaya/ruby_trainee/tree/main/epamtasks
 - Solved tasks
-https://github.com/lizamuromskaya/ruby_tasks
-- Projects that I did as part of an online course
-https://github.com/lizamuromskaya/ruby_trainee 
+https://github.com/lizamuromskaya/ruby_tasks 
 - The final project that I did with my team in epam ruby lab(it will be completed 23.07.2021)
 https://smartbanking-epam.ru/
+
 https://github.com/RUBYLNIK-training-center/smart-banking
 
 
@@ -29,6 +28,7 @@ At the moment I have no work experience
 
 **Rubyschool.us** (Feb 2021 - Apr 2021)\
 *An intensive online web-development course.*
+
 I have completed 35 lessons of this course: https://rubyschool.us/
 
 **Epam Ruby lab** (Apr 2021 - Jul 2021)\
