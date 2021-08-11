@@ -14,16 +14,16 @@
 https://github.com/lizamuromskaya/ruby_trainee/tree/main/epamtasks
 - Solved tasks
 https://github.com/lizamuromskaya/ruby_tasks 
-- The final project that I did with my team in epam ruby lab(it will be completed 23.07.2021)
+- The final project that I did with my team in epam ruby lab
 
-https://smartbanking-epam.ru/
+https://smartbanking-epam.ru/ 
 
 https://github.com/RUBYLNIK-training-center/smart-banking
 
 
 ## Experience ##
 
-At the moment I have no work experience
+Cybergizer 08.2021 - now
 
 ## Education ##
 
