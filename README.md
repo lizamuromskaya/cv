@@ -23,7 +23,8 @@ https://github.com/RUBYLNIK-training-center/smart-banking
 
 ## Experience ##
 
-Cybergizer 08.2021 - now
+**Cybergizer** (Jul 2021 - now)\
+Junior Ruby developer
 
 ## Education ##
 
