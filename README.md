@@ -5,19 +5,17 @@
 
 ## Summary ##
 - 1 year of experience in programming.
-- Have skills in ruby, ruby on rails, sinatra, bootstrap,SQLite,PostgreSQL.
-- Read 1 part of the book Metaprogramming Ruby 2: Program Like the Ruby Pros
+- Have skills in ruby, ruby on rails, git, HTML/CSS, SQL, RSpec, Linux, bootstrap,PostgreSQL, SQLite.
+- Successfully completed Epam Ruby lab.
 - Understand OOP concepts, know KISS/DRY/SOLID principles
+- Read 1 part of the book Metaprogramming Ruby 2: Program Like the Ruby Pros
 
 ### What to see ###
 - Projects that I did at Epam ruby lab
 https://github.com/lizamuromskaya/ruby_trainee/tree/main/epamtasks
 - Solved tasks
 https://github.com/lizamuromskaya/ruby_tasks 
-- The final project that I did with my team in epam ruby lab
-
-https://smartbanking-epam.ru/ 
-
+- The final project that I did with my team in epam ruby lab 
 https://github.com/RUBYLNIK-training-center/smart-banking
 
 
@@ -36,20 +34,21 @@ A learning process was focused on the programming.
 **Rubyschool.us** (Feb 2021 - Apr 2021)\
 *An intensive online web-development course.*
 
-I have completed 35 lessons of this course: https://rubyschool.us/
+Course => https://rubyschool.us/
 
 **Belarusian State University of Informatics and Radioelectronics** (September 2019 - June 2023)\
 *Faculty of Computer-Aided Design, Information systems and technologies (industrial safety)*\
-С++, MySQL
+С++, MySQL, Math
 
 ## Skills ##
 
 **Operating Systems**: Linux (Ubuntu)\
 **Programming Languages**: Ruby\
-**Frameworks and Libraries**: Ruby on Rails, Sinatra\
+**Frameworks and Libraries**: Ruby on Rails\
 **Databases**: PostgreSQL, MySQL, SQLite\
 **TDD/BDD**: RSpec\
 **Version Control Systems**: Git
+**Project Management Systems**: Jira, Trello
 
 ## Languages ##
 
@@ -59,4 +58,4 @@ I have completed 35 lessons of this course: https://rubyschool.us/
 
 ## Interests ##
 
-Math, sport, programming
+Math, sport, books
